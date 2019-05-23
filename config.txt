@@ -1,0 +1,6 @@
+owner=527302409211609113
+prefix=ev
+game=Event
+stayinchannel=true
+songinstatus=false
+token=NTgxMDA5MTczMzk1OTMxMTM2.XObaMQ.eiA4KGH4eFeu0tPQQRUMPkQYwt4
